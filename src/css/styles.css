@@ -32,7 +32,7 @@ body {
 
   border-radius: 5px;
 
-  width: 500px; /* Ширина блока */
+  width: 600px; /* Ширина блока */
 
   box-sizing: border-box; /* Учитываем padding и border в размерах элемента */
 }
